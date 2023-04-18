@@ -24,3 +24,21 @@ You can run each Jupyter notebook in order but here is a summary/instructions fo
 8) **STEP 6** Trading Bot
 * Created a sample trading bot 
 * We take our top performing model (Stacking_LR_model_JT2019to2022TEST_news_google), and then use it to create buy and sell signals(prediction) for us to invest on
+
+
+
+## Sources (Data Access)
+
+We do not own any of the data used for this application. Data is compiled from the following sources:
+
+https://twitter.com
+
+https://www.binance.com/en/binance-api
+
+https://alpaca.markets/docs/market-data/news/
+
+https://trends.google.com/home
+
+
+
+
