@@ -2,7 +2,7 @@
 Cryptocurrency's growing acceptance and trading volume has led to increased analysis using historical data. Our team hypothesizes that Twitter activity influences crypto prices. We aim to predict buy/sell signals using Twitter sentiment, Google Trends, News API, and market trends with machine learning techniques.
 
 ## How to Run this Project
-You can run each Jupyter notebook in order but here are some tips/summary of each notebook:
+You can run each Jupyter notebook in order but here is a summary/instructions for each notebook:
 1) STEP 1 Twitter Scrapper and Extracts
 * We extract 3 years of Bitcoin Twitter data using snscrape
 * You need to install the development version of snscrape. You can install with `pip install git+https://github.com/JustAnotherArchivist/snscrape.git`
