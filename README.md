@@ -3,7 +3,7 @@ Cryptocurrency's growing acceptance and trading volume has led to increased anal
 
 ## How to Run this Project
 You can run each Jupyter notebook in order but here is a summary/instructions for each notebook:
-1) **STEP 1** Twitter Scrapper and Extracts
+1) **STEP 1** Twitter Scraper and Extracts
 * We extract 3 years of Bitcoin Twitter data using snscrape
 * You need to install the development version of snscrape. You can install with `pip install git+https://github.com/JustAnotherArchivist/snscrape.git`
 2) **STEP 2** Data Extract and Merging
